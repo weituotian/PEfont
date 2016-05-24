@@ -85,6 +85,7 @@ namespace PEFont
             menuitem1_2.Text = "查看教程在bilibili";
             menuitem1_2.BackColor = System.Drawing.Color.Maroon;
             menuitem1_2.ForeColor = System.Drawing.Color.Coral;
+            menuitem1_2.Click += menuitem1_2_Click;
             // 
             // 下拉菜单项3
             // 
@@ -105,7 +106,6 @@ namespace PEFont
             menuitem1_4.Click += menuitem1_4_Click;
 
         }
-
 
         /// <summary>
         /// 遍历一个窗口的控件，然后改变它的字体为提供的字体
@@ -220,6 +220,10 @@ namespace PEFont
         private void menuitem1_1Click(object sender, EventArgs e)
         {
             selectChangeFont(settings.font);
+        }
+        void menuitem1_2_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("http://www.bilibili.com/video/av4751026/");
         }
 
         private void menuitem1_3Click(object sender, EventArgs e)
