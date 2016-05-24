@@ -1,0 +1,9 @@
+E:\vc++6.0 project\pmxeditor\PEFont\PEFont\bin\x86\Debug\PEFont.dll
+E:\vc++6.0 project\pmxeditor\PEFont\PEFont\bin\x86\Debug\PEFont.pdb
+E:\vc++6.0 project\pmxeditor\PEFont\PEFont\bin\x86\Debug\PEPlugin.dll
+E:\vc++6.0 project\pmxeditor\PEFont\PEFont\bin\x86\Debug\PEPlugin.xml
+E:\vc++6.0 project\pmxeditor\PEFont\PEFont\obj\x86\Debug\PEFont.Form1.resources
+E:\vc++6.0 project\pmxeditor\PEFont\PEFont\obj\x86\Debug\PEFont.Properties.Resources.resources
+E:\vc++6.0 project\pmxeditor\PEFont\PEFont\obj\x86\Debug\PEFont.csproj.GenerateResource.Cache
+E:\vc++6.0 project\pmxeditor\PEFont\PEFont\obj\x86\Debug\PEFont.dll
+E:\vc++6.0 project\pmxeditor\PEFont\PEFont\obj\x86\Debug\PEFont.pdb
